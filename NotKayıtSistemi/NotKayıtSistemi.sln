@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotKayıtSistemi", "NotKayıtSistemi\NotKayıtSistemi.csproj", "{EF88982C-64EE-47B7-BD8A-866CF07F13A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF88982C-64EE-47B7-BD8A-866CF07F13A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF88982C-64EE-47B7-BD8A-866CF07F13A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF88982C-64EE-47B7-BD8A-866CF07F13A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF88982C-64EE-47B7-BD8A-866CF07F13A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {569D8E90-7DCD-4116-A6EB-BE451FC5E06D}
+	EndGlobalSection
+EndGlobal
